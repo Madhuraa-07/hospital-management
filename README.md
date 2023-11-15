@@ -32,3 +32,9 @@ Sort and search by name, ID, or entry month.
 Data Integrity:
 File update mechanisms.
 Efficient and user-centric patient management system.
+
+PRE-REQUISITE : C compiler (gcc)
+commands to run file :
+gcc filename.c
+execute the file :
+./a.exe or ./a.out
